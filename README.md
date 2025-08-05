@@ -31,10 +31,10 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 ## ⚙️ Methodology
 
 - **Exploratory Data Analysis (EDA):**  
-  - Trend analysis across years
-  - Distribution of 
-  - Correlation heatmaps 
-
+  - Trend analysis of employee turnover across survey years (2018–2024)  
+  - Distribution and frequency analysis of the target variable *Intent to Leave*  
+  - Correlation heatmaps to identify relationships between survey questions
+    
 - **Data Preprocessing:**  
   - Handling missing values and survey inconsistencies  
   - Feature scaling and one-hot encoding  
@@ -68,9 +68,10 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ## 💻 Tools & Technologies
 
-- **Languages:** Python  
+- **Languages:** Python, SQL  
 - **Libraries:** pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook  
+- **Database:** SQL (used for storing and querying large datasets efficiently)  
 - **Version Control:** Git & GitHub  
 
 ---
