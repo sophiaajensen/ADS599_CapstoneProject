@@ -78,9 +78,9 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ## 🗂️ Repository Structure
 
-├── code library/ # Jupyter notebooks for EDA, preprocessing, and modeling
-├── data/ # Raw survey CSV files and processed datasets
-├── image/ # Visualizations, charts, figures
-├── other materials/ # Other materials, documentation, reports, presentations
-├── # Git attributes config file
-└── README.md # Project overview and documentation 
+- code library/ -- Jupyter notebooks for EDA, preprocessing, and modeling
+- data/ -- Raw survey CSV files and processed datasets
+- image/ -- Visualizations, charts, figures
+- other materials/ -- Other materials, documentation, reports, presentations
+- .gitattributes/ -- Git attributes config file
+- README.md -- Project overview and documentation 
