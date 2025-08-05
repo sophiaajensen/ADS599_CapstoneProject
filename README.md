@@ -56,7 +56,7 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 - **Top Predictive Factors:**  
   - Gender
-  **Key Survey Questions:**  
+- **Key Survey Questions:**  
   - *“Employees are recognized for providing high-quality products and services.”*  
   - *“I know what is expected of me on the job.”*  
   - *“I know how my work relates to the agency's goals.”*
