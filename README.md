@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
-## 📘 Project Overview
+## Project Overview
 
 **Capstone Course:** M.S. Applied Data Science – University of San Diego  
 **Authors:** Sophia Jensen & Duy Nguyen  
@@ -12,13 +12,13 @@ This project investigates the drivers behind voluntary employee turnover in fede
 
 ---
 
-## 🎯 Business Challenge
+## Business Challenge
 
 Employee turnover leads to productivity loss, increased hiring costs, and organizational instability. This project aims to build predictive models to classify which employees are at risk of leaving based on responses to the FEVS. By identifying key features tied to attrition, HR teams can implement targeted interventions.
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 - **Dataset:** Federal Employee Viewpoint Survey (FEVS)  
 - **Years Covered:** 2018–2024  
@@ -28,7 +28,7 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - **Exploratory Data Analysis (EDA):**  
   - Trend analysis of employee turnover across survey years (2018–2024)  
@@ -52,7 +52,7 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ---
 
-## 🧪 Results
+## Results
 
 - **Top Predictive Factors:**  
   - Gender
@@ -66,7 +66,7 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ---
 
-## 💻 Tools & Technologies
+## Tools & Technologies
 
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn  
@@ -76,7 +76,7 @@ Employee turnover leads to productivity loss, increased hiring costs, and organi
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 - code library/ -- Jupyter notebooks for EDA, preprocessing, and modeling
 - data/ -- Raw survey CSV files and processed datasets
