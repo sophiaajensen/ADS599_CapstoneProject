@@ -1,6 +1,4 @@
-# 🔍 Identifying Key Predictors of Voluntary Employee Turnover: Using a Predictive Model Approach
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
+# Identifying Key Predictors of Voluntary Employee Turnover: Using a Predictive Model Approach
 
 ## Project Overview
 
